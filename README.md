@@ -11,8 +11,7 @@
 ###
 
 <p>📍 I'm Brazilian 🇧🇷 from Rio de Janeiro</p>
-<p>💻I began my studies in programming about a year ago</p>
-<p>👩🏻‍💻 I am currently finishing the Full Stack development course at Driven Education👩🏻‍🎓</p>
+<p>💻 I am currently finishing the Full Stack development course at Driven Education👩🏻‍🎓</p>
 <p>🎮 I love video games and am an undying fan of Skyrim 🗡</p>
 <p>📕 I'm an assiduous reader addicted to suspense and terror 🧛🏼‍♂️</p>
 
