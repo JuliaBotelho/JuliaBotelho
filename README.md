@@ -2,7 +2,7 @@
 
 ###
 
-<h3>Welcome to my GitHub page! Also known as my humble portfolio of projects I've done as a Front-End, Back-End and Full-Stack developer👩‍💻 </h3>
+<h4>Welcome to my GitHub page! Also known as a humble portfolio of projects I've done as a Front-End, Back-End and Full-Stack developer👩‍💻 </h4>
 
 ###
 
