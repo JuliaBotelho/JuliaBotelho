@@ -46,6 +46,7 @@
   <img src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png" height="30" alt="jest logo"  />
   <img src="https://www.svgrepo.com/show/373776/light-prisma.svg" height="30" width="42" alt="prisma logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" height="30" width="42" alt="nodejs logo"  />
 </div>
 
 ###
